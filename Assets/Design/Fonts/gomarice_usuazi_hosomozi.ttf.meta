@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 92f3f54993f6d4c4994424e12bb4755b
+timeCreated: 1517309124
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Usuazi Hosomozi
+  fontNames:
+  - Usuazi Hosomozi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
