@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlickTheBall", "FlickTheBall.csproj", "{6E4081B0-23D6-9A44-AF8F-DA4C0FE4F77E}"
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{027944A4-627C-B433-8CAC-DDEFD3F21F9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6E4081B0-23D6-9A44-AF8F-DA4C0FE4F77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6E4081B0-23D6-9A44-AF8F-DA4C0FE4F77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6E4081B0-23D6-9A44-AF8F-DA4C0FE4F77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6E4081B0-23D6-9A44-AF8F-DA4C0FE4F77E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027944A4-627C-B433-8CAC-DDEFD3F21F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027944A4-627C-B433-8CAC-DDEFD3F21F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027944A4-627C-B433-8CAC-DDEFD3F21F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027944A4-627C-B433-8CAC-DDEFD3F21F9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
